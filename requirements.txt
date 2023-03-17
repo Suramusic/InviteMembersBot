@@ -1,0 +1,5 @@
+telethon
+cryptg
+asyncio
+tgcrypto
+pyrogram
